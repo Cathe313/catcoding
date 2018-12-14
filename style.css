@@ -1,0 +1,15 @@
+html {
+    background-image: url('images/image-arriere-plan.jpg');
+    background-size: cover;
+}
+
+.container {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+
+}
+
+h1 {
+    color: AntiqueWhite;
+    text-align: center;
+    font-size: 6rem;
+}
